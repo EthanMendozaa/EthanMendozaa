@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences [ethan.temp.resume](ethan.temp.resume)
 
-- ⚡ Fun fact [im dumb as shit](im dumb as shit)
-
 - 📫 How to reach me **ethanmendoza@gmail.com**
 
 - 👨‍💻 All of my projects are available at **temp.ethan.portfiolo**
