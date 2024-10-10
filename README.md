@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ethan Mendoza</h1>
+<h1 align="center">Hi, I'm Ethan Mendoza</h1>
 <h3 align="center">A student studying Computer Science & Political Science @ Northeastern University</h3>
 
 - 🔭 I’m currently working on [temp](https://github.com/EthanMendozaa/TempThatWillBeChangedInTheFuture)
